@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-label="Placeholder ilustrativo: pequeno empreendedor">
-  <rect width="800" height="600" fill="#F1F8F5"/>
-  <rect x="120" y="120" width="560" height="360" rx="20" fill="#FFFFFF" stroke="#DCE8E2"/>
-  <g fill="#0E9F6E" opacity="0.6"><rect x="180" y="180" width="140" height="140" rx="12"/><rect x="340" y="180" width="140" height="140" rx="12"/><rect x="500" y="180" width="140" height="140" rx="12"/></g>
-  <text x="400" y="540" text-anchor="middle" font-family="Inter, sans-serif" font-size="18" fill="#5A6B7B">Substituir pela foto real (mei)</text>
-</svg>
